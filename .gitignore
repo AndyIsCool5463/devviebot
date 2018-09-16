@@ -1,1 +1,18 @@
-ahhhaahaha you thought?
+# TOKEN
+token = "S8JcErwJMm4BvICBSt_XakZGxPGxSD3s"
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.env
+pids
+logs
+results
+build
+botSettings.json
+node_modules
